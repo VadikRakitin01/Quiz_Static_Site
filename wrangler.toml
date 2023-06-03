@@ -1,0 +1,9 @@
+name = "quizsite"
+type = "webpack"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "."
+entry-point = "workers_site"
